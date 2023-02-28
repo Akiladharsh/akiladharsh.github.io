@@ -675,6 +675,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 --------------------------------------*/
 .clients {padding-top: 50px;}
 .clients-area {
+    background-color: #bc88d1;
     display: flex;
     align-items: center;
     height: 250px;
